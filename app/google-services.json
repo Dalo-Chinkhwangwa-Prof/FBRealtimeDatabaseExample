@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "576459057321",
+    "firebase_url": "https://myrealtimeproject-265114.firebaseio.com",
+    "project_id": "myrealtimeproject-265114",
+    "storage_bucket": "myrealtimeproject-265114.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576459057321:android:940567279981cb809ae1b8",
+        "android_client_info": {
+          "package_name": "com.illicitintelligence.myrealtimeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576459057321-dn08lfq94elhf8o7h5dlf29t3r166pdf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.illicitintelligence.myrealtimeproject",
+            "certificate_hash": "13dfcbbf3abcc07bb4946ca300975ad6d5366012"
+          }
+        },
+        {
+          "client_id": "576459057321-l16beuf1u0570p9o25lsvkv8ans28jn8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVKWQ2e-GPHXQhFVl_p711CmEktNgC-oU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576459057321-l16beuf1u0570p9o25lsvkv8ans28jn8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
